@@ -29,7 +29,7 @@ function App() {
               <Link to="/radio-button-sets-and-show-the-info">Set Of Radio Button On select Show Info</Link>
             </li>
             <li>
-              <Link to="/swap-list-items">Swap List Items</Link>
+              <Link to="/swap-list-items">Swap List Items With Same Index</Link>
             </li>
 
             <li>
